@@ -1,7 +1,3 @@
-# 9/25/14
-# tax_calc.py
-# calculate sales tax for an item at a given rate
-
 import math
 
 cost = float(raw_input("Enter the item cost: "))

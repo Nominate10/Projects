@@ -6,17 +6,17 @@ Numbers
 
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+~~**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.~~
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
+~~**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.~~
 
 **Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
 **Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
-**Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+~~**Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.~~
 
 **Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
@@ -30,7 +30,7 @@ Numbers
 
 **Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
-**Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
+~~**Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.~~
 
 **Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
 
@@ -40,7 +40,7 @@ Numbers
 
 **Number Names** - Show how to spell out a number in English. You can use a preexisting implementation or roll your own, but you should support inputs up to at least one million (or the maximum value of your language's default bounded integer type, if that's less). *Optional: Support for inputs other than positive integers (like zero, negative integers, and floating-point numbers).*
 
-**Coin Flip Simulation** - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.
+~~**Coin Flip Simulation** - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.~~
 
 Classic Algorithms
 -----------------
@@ -75,7 +75,7 @@ Text
 
 **Reverse a String** - Enter a string and the program will reverse it and print it out.
 
-**Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
+~~**Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.~~
 
 **Count Vowels** - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
@@ -99,7 +99,7 @@ Text
 
 **Random Gift Suggestions** - Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one. *Optional: Suggest places you can get it (link to Amazon page?).*
 
-**Markdown to HTML Converter** - Converts Markdown formatted text into HTML files. Implement basic tags like `p`, `strong`, `em` etc. *Optional: Implement all tags from [Markdown Syntax Docs](http://daringfireball.net/projects/markdown/syntax).* 
+**Markdown to HTML Converter** - Converts Markdown formatted text into HTML files. Implement basic tags like `p`, `strong`, `em` etc. *Optional: Implement all tags from [Markdown Syntax Docs](http://daringfireball.net/projects/markdown/syntax).*
 
 **Regex Query Tool** - A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 

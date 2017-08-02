@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 import re
 
 # --taken from https://svn.blender.org/svnroot/bf-blender/trunk/blender/build_files/scons/tools/bcolors.py
